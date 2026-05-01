@@ -1,0 +1,41 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: saas-platform-api
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: saas-platform-api
+  template:
+    metadata:
+      labels:
+        app: saas-platform-api
+    spec:
+      containers:
+        - name: api
+          image: saas-platform-api:latest
+          ports:
+            - containerPort: 8080
+          env:
+            - name: ASPNETCORE_ENVIRONMENT
+              value: Production
+            - name: ConnectionStrings__AppDb
+              valueFrom:
+                secretKeyRef:
+                  name: saas-platform-secrets
+                  key: appdb-connection
+            - name: OpenTelemetry__Endpoint
+              value: http://otel-collector.monitoring.svc.cluster.local:4317
+          readinessProbe:
+            httpGet:
+              path: /health/ready
+              port: 8080
+            initialDelaySeconds: 10
+            periodSeconds: 10
+          livenessProbe:
+            httpGet:
+              path: /health/live
+              port: 8080
+            initialDelaySeconds: 10
+            periodSeconds: 10

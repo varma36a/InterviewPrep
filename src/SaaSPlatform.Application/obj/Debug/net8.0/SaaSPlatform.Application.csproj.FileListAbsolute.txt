@@ -1,0 +1,16 @@
+/Users/RohithGVMac/InterviewPrep_2026/InterviewPrep/src/SaaSPlatform.Application/obj/Debug/net8.0/SaaSPlatform.Application.csproj.AssemblyReference.cache
+/Users/RohithGVMac/InterviewPrep_2026/InterviewPrep/src/SaaSPlatform.Application/obj/Debug/net8.0/SaaSPlatform.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/RohithGVMac/InterviewPrep_2026/InterviewPrep/src/SaaSPlatform.Application/obj/Debug/net8.0/SaaSPlatform.Application.AssemblyInfoInputs.cache
+/Users/RohithGVMac/InterviewPrep_2026/InterviewPrep/src/SaaSPlatform.Application/obj/Debug/net8.0/SaaSPlatform.Application.AssemblyInfo.cs
+/Users/RohithGVMac/InterviewPrep_2026/InterviewPrep/src/SaaSPlatform.Application/obj/Debug/net8.0/SaaSPlatform.Application.csproj.CoreCompileInputs.cache
+/Users/RohithGVMac/InterviewPrep_2026/InterviewPrep/src/SaaSPlatform.Application/obj/Debug/net8.0/SaaSPlatform.Application.sourcelink.json
+/Users/RohithGVMac/InterviewPrep_2026/InterviewPrep/src/SaaSPlatform.Application/bin/Debug/net8.0/SaaSPlatform.Application.deps.json
+/Users/RohithGVMac/InterviewPrep_2026/InterviewPrep/src/SaaSPlatform.Application/bin/Debug/net8.0/SaaSPlatform.Application.dll
+/Users/RohithGVMac/InterviewPrep_2026/InterviewPrep/src/SaaSPlatform.Application/bin/Debug/net8.0/SaaSPlatform.Application.pdb
+/Users/RohithGVMac/InterviewPrep_2026/InterviewPrep/src/SaaSPlatform.Application/bin/Debug/net8.0/SaaSPlatform.Domain.dll
+/Users/RohithGVMac/InterviewPrep_2026/InterviewPrep/src/SaaSPlatform.Application/bin/Debug/net8.0/SaaSPlatform.Domain.pdb
+/Users/RohithGVMac/InterviewPrep_2026/InterviewPrep/src/SaaSPlatform.Application/obj/Debug/net8.0/SaaSPlatform.Application.csproj.CopyComplete
+/Users/RohithGVMac/InterviewPrep_2026/InterviewPrep/src/SaaSPlatform.Application/obj/Debug/net8.0/SaaSPlatform.Application.dll
+/Users/RohithGVMac/InterviewPrep_2026/InterviewPrep/src/SaaSPlatform.Application/obj/Debug/net8.0/refint/SaaSPlatform.Application.dll
+/Users/RohithGVMac/InterviewPrep_2026/InterviewPrep/src/SaaSPlatform.Application/obj/Debug/net8.0/SaaSPlatform.Application.pdb
+/Users/RohithGVMac/InterviewPrep_2026/InterviewPrep/src/SaaSPlatform.Application/obj/Debug/net8.0/ref/SaaSPlatform.Application.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SaaSPlatform.Application/1.0.0": {
+        "dependencies": {
+          "SaaSPlatform.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SaaSPlatform.Application.dll": {}
+        }
+      },
+      "SaaSPlatform.Domain/1.0.0": {
+        "runtime": {
+          "SaaSPlatform.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SaaSPlatform.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SaaSPlatform.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
